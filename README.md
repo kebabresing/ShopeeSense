@@ -203,7 +203,7 @@ Dataset yang dihasilkan dapat digunakan untuk:
 | **NIM** | [202310370311406] |
 | **Program Studi** | [Teknik Informatika] |
 | **Institusi** | [Universitas Muhammadiyah Malang] |
-| **Mata Kuliah** | Dasar-Dasar Ilmu Pengetahuan (DIP) |
+| **Mata Kuliah** | Data, Informasi dan Pengetahuan (DIP) |
 | **Tahun** | 2026 |
 
 ---
