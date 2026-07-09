@@ -1,0 +1,21 @@
+Analisis Sentimen Ulasan Shopee di Google Play Store
+
+Dataset: 2000 ulasan
+Kolom  : review, rating, tanggal
+Label  : Positif, Netral, Negatif
+
+Distribusi:
+  Positif: 1404 (70.2%)
+  Negatif: 503 (25.1%)
+  Netral: 93 (4.7%)
+
+Model                               Acc       F1
+--------------------------------------------------
+Naive Bayes                      80.30%   81.24%
+Logistic Regression              79.04%   79.93%
+SVM (LinearSVC)                  78.79%   78.74%
+SVM Best (Tuned)                 77.27%   77.68%
+
+Model Terbaik: Naive Bayes
+  Accuracy: 80.30%
+  F1-Score: 81.24%
